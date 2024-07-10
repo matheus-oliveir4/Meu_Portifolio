@@ -8,7 +8,7 @@ body {
 	font-family: "Poppins", sans-serif;
 	margin: 0 auto;
 	max-width: 1120px;
-	background: linear-gradient(#070707, #3200E0, #0117E1, #0830e2,  #4B5AE0);
+	background: black
 	background-size: 120% 120%;
 }
 
@@ -110,12 +110,12 @@ body {
 
 .home .container-foto img {
 	margin-top: 5px;
-	width: 700px;
+	width: 300px;
 	border-radius: 50%;
 }
 
 .home .foto.sombra-interna {
-	background: linear-gradient(to right, #8a35c8, #18c063, #00eea2);
+	background: linear-gradient(to right, #fafafa, #8a8a8a, #272727);
 	background-size: 190% 190%;
 	animation: gradient-animation 5s ease infinite;
 }
@@ -202,6 +202,8 @@ body {
 	background-color: #9443d8;
 	transition: 0.3s;
 }
+
+.
 
 .projetos .btn-mostrar-projetos.remover {
 	display: none;
